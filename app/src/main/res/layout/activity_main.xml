@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         >
 
-        <android.support.design.widget.FloatingActionButton
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
             app:backgroundTint="@color/fab"
             android:src="@drawable/ic_play_white"
             style="@style/FABStyle" />

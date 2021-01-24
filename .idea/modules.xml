@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FABRevealLayout.iml" filepath="$PROJECT_DIR$/FABRevealLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FABRevealLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FABRevealLayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/FABRevealLayout.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/FABRevealLayout.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/FABRevealLayout.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/FABRevealLayout.sample.iml" />
     </modules>
   </component>
 </project>
